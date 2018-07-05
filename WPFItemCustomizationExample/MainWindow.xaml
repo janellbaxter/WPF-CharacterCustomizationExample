@@ -1,0 +1,31 @@
+﻿<Window x:Name="CustomizationExampleWindow" x:Class="WPFItemCustomizationExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFItemCustomizationExample"
+        mc:Ignorable="d"
+        Title="Customization Example" Height="450" Width="600" Loaded="CustomizationExampleWindow_Loaded">
+    <Grid x:Name="MainGrid">
+
+        <Image x:Name="Preview" HorizontalAlignment="Left" Height="200" Margin="193,102,0,0" VerticalAlignment="Top" Width="200" OpacityMask="#7FBBA12B"/>
+        <Label x:Name="lblTitle" Content="Customize Your Companion" HorizontalAlignment="Left" Margin="41,18,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Black" FontSize="36"/>
+        <Button x:Name="btnSubmit" Content="Start Game" HorizontalAlignment="Left" Margin="259,365,0,0" VerticalAlignment="Top" Width="75" Click="btnSubmit_Click"/>
+        <WrapPanel x:Name="Options" HorizontalAlignment="Left" Height="200" Margin="57,102,0,0" VerticalAlignment="Top" Width="118">
+            <Label x:Name="lblTexture" Content="Texture" Width="118" FontWeight="Bold"/>
+            <RadioButton x:Name="rbScales" Content="Scales" GroupName="Texture" Width="116" Checked="Texture_Checked"/>
+            <RadioButton x:Name="rbTough" Content="Tough Skin" GroupName="Texture" Width="118" Checked="Texture_Checked"/>
+            <RadioButton x:Name="rbSoft" Content="Soft Skin" GroupName="Texture" Width="115" Checked="Texture_Checked"/>
+            <RadioButton x:Name="rbFur" Content="Fur" GroupName="Texture" Width="118" Checked="Texture_Checked"/>
+
+            <Label x:Name="lblColor" Content="Color" Width="118" FontWeight="Bold"/>
+            <RadioButton x:Name="rbBeige" Content="Beige" GroupName="Color" Width="116" Checked="Color_Checked"/>
+            <RadioButton x:Name="rbGreen" Content="Green" GroupName="Color" Width="118" Checked="Color_Checked"/>
+            <RadioButton x:Name="rbBlue" Content="Blue" GroupName="Color" Width="115" Checked="Color_Checked"/>
+            <RadioButton x:Name="rbPurple" Content="Purple" GroupName="Color" Width="118" Checked="Color_Checked"/>
+        </WrapPanel>
+        <TextBox x:Name="inName" HorizontalAlignment="Left" Height="23" Margin="239,318,0,0" TextWrapping="Wrap" Text="Friend" VerticalAlignment="Top" Width="120" TextChanged="inName_TextChanged"/>
+        <Rectangle x:Name="ColorOverlay" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="200" Margin="193,102,0,0" Stroke="Black" VerticalAlignment="Top" Width="200"/>
+
+    </Grid>
+</Window>

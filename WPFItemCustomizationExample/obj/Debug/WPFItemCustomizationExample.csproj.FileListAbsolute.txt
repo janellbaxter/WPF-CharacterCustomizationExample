@@ -1,0 +1,15 @@
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\bin\Debug\WPFItemCustomizationExample.exe.config
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\bin\Debug\WPFItemCustomizationExample.exe
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\bin\Debug\WPFItemCustomizationExample.pdb
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample.csprojResolveAssemblyReference.cache
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\MainWindow.g.cs
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\App.g.cs
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample_MarkupCompile.cache
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample_MarkupCompile.lref
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\MainWindow.baml
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample.g.resources
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample.Properties.Resources.resources
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample.csproj.GenerateResource.cache
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample.csproj.CoreCompileInputs.cache
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample.exe
+c:\users\janell\Source\Repos\WPFItemCustomizationExample\WPFItemCustomizationExample\obj\Debug\WPFItemCustomizationExample.pdb

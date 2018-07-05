@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFItemCustomizationExample", "WPFItemCustomizationExample\WPFItemCustomizationExample.csproj", "{24667575-F704-4E28-86C9-1CDB7BC4FB0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24667575-F704-4E28-86C9-1CDB7BC4FB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24667575-F704-4E28-86C9-1CDB7BC4FB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24667575-F704-4E28-86C9-1CDB7BC4FB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24667575-F704-4E28-86C9-1CDB7BC4FB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E6C109-04B5-4433-A608-8DD22A1E0E4F}
+	EndGlobalSection
+EndGlobal
